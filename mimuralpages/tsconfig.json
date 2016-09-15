@@ -1,0 +1,13 @@
+{
+    "files": [    
+        "js/jquery.d.ts",                   
+        "js/alertify.d.ts",
+        "js/ModelosMural.ts",
+        "js/Common.ts",     
+        "js/Mural.ts"
+    ],
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "es5"
+    }
+}
