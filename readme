@@ -1,0 +1,24 @@
+Nombre del proyecto: MiMural-prototype
+
+Versión: Esta versión es un prototipo y sólo refleja los inicios de cómo se verán en producción el proyecto de mi mural
+
+Tecnologías (lenguajes, frameworks) que usa:
+nodejs, typescript, knockout, html5, bootstrap 3.*, MySQL, Cassandra
+
+Descripción: MiMural es una red social que permite interconectar a toda la comunidad educativa en la SEP Mexico.
+El proyecto consiste en una aplicación web responsiva que utiliza tecnologías que le permiten conectar a sus usuarios en tiempo real y compartir de forma asíncrona
+propuestas que tengan como propósito la mejora de la educación.
+
+Para correr el proyecto(demo) basta con instalar:
+-MySql
+-NodeJS
+-NPM
+-Cassandra (require mayor capacidad, pero en PROD existirá, en pocas palabras, para el prototipo no hay que instalarese)
+
+Pantallas desarrolladas:
+-Mimural
+-Reportes
+-login
+-Administración de datos para administradores
+
+Una vez instaladas estas tecnologías, basta con correr serverapp.js utilizando nodeJS
