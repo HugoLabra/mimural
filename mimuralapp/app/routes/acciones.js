@@ -96,7 +96,7 @@ var actions = {
     });
   },
   new : function (request, response) {
-    response.sendStatus(500);
+    response.sendStatus(200);
     /*if (!cassandra || !cassandra.client) {
      response.sendStatus(500);
      } else {
